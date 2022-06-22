@@ -21,4 +21,4 @@
 
 
 
-## Big-O Gösterimi = O(nlogn)
+## Big-O Gösterimi = O(6log6)
